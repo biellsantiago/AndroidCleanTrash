@@ -1,0 +1,2 @@
+# AndroidCleanTrash
+Repositório Android
